@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722364554 source:/home/berlensky/TPC/Exo2/main.c
+	<stdio.h>
+	<stdlib.h>
+
